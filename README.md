@@ -1,6 +1,3 @@
-<div align="center">
- <img src="https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7" alt="Image" width="300"/>
-</div>
 <h2 align="center">Hoarding disorder 클론코딩</h2>
 <br><br>
 
